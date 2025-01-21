@@ -1,0 +1,29 @@
+﻿{
+	"ItemName": {
+		"CompanionCube": "Lil Man",
+		"EatersBone": "Lumen Fragment",
+		"LesserHealingPotion": "Macro-Munch Bar",
+		"HealingPotion": "Macro-Munch Burger",
+		"GreaterHealingPotion": "Macro-Munch Meal"
+	},
+	"ItemTooltip": {
+		"CompanionCube": "'Summons a Lil Man to keep you safe. Unless..'",
+		"EatersBone": "'A shard of a star? Why is down here in the corruption?'",
+		"LesserHealingPotion": "'Macro-Munch! Now in bar form, just to get a lil bigger. On the go!'",
+		"HealingPotion": "'A burger so good you can feel the pounds getting added on!'",
+		"GreaterHealingPotion": "'Macro-Munch Meal! Now with 20% more growth power, and all of your daily vitamins!'"
+	
+	},
+	"BuffDescription": {
+		"CompanionCube": "'What is that thing? It-Its watching me..'",
+		"EatersBone": "'A small manifestation of something way bigger.'",
+		"Campfire": "'Sitting back, schlugging my pintle..'",
+		"PotionSickness": "'Your tummy is so full. Listen to it churn as you break all that down..'"
+	},
+	"BuffName":{
+		"CompanionCube": "Lil Man",
+		"EatersBone": "Lumen Guidance",
+		"Campfire": "Schluggin",
+		"PotionSickness": "Full Tummy"
+	}
+}
