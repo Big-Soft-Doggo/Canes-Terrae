@@ -1,4 +1,4 @@
-# Canes-Terrae
+# Canes Terrae
 _A small Terraria resource pack! For the vanilla version of the game, this changes only a few assets to some silly alternate version!_
 
 Currently, there are only around **10 major changes** to the game's textures, buffs, descriptions, and item names! Most of these are light-hearted fun changes like swapping a rare cloud asset with an image of my husband!
